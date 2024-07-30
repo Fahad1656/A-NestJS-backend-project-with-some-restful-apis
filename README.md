@@ -5,13 +5,13 @@ Table of Contents:
 1.Installation
 2.Environment Variables
 API Endpoints:
-1.User Endpoints
+3.User Endpoints
 a.Register User
 b.Get User Profile
 c.Update User
 d.Generate OTP
 e.Reset Password
-2.Admin Endpoints
+4.Admin Endpoints
 a.Register Admin
 b.Insert Post
 c.Find User by ID
