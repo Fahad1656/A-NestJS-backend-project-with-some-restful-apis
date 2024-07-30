@@ -6,7 +6,7 @@ Table of Contents:
 2.Environment Variables
 
 
-User Endpoints:
+3.User Endpoints:
 
 a.Register User: Create a new user account.
 
@@ -18,7 +18,7 @@ d.Generate OTP: Create a One-Time Password for user verification.
 
 e.Reset Password: Allow users to reset their password.
 
-Admin Endpoints:
+4.Admin Endpoints:
 
 
 a.Register Admin: Create a new admin account.
